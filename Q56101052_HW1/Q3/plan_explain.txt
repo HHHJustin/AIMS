@@ -1,0 +1,2 @@
+train : 220 pcs
+test : 10 pcs (1095_json ~ 1101_json + 1104_json ~ 1106_json)
