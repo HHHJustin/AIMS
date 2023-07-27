@@ -1,1 +1,1 @@
-# AIMA
+# AIMS
